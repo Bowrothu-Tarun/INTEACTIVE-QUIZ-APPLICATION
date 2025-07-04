@@ -1,20 +1,26 @@
 # INTEACTIVE-QUIZ-APPLICATION
 
+## 🏢 Internship Details
+
+- **Company:** CODTECH IT Solutions  
+
+- **Name:** Bowrothu Tarun  
+
+- **Intern ID:** :CT04DG100
+
+- **Domain:** Front-End Development  
+
+- **Duration:** 4 Weeks
+
+- **Mentor:** Neela Santhosh
+
 # 💡 Interactive JavaScript Quiz App
 
-A sleek and responsive **quiz web application** built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project challenges users with multiple-choice JavaScript questions, tracks scores, and displays a detailed review of incorrect answers — all in a beautifully themed dark UI.
+A modern, sleek, and fully responsive quiz web application developed using HTML, CSS, and Vanilla JavaScript. This project is designed to provide users with an engaging and interactive experience as they test their knowledge of JavaScript fundamentals.
 
----
+The application features a set of carefully crafted multiple-choice questions that cover various JavaScript concepts — from basic syntax to more advanced logic and behavior. It not only tracks the user's score in real-time but also highlights correct and incorrect answers, providing an insightful summary at the end of the quiz. Users can review their mistakes, learn from them, and retry the quiz to improve their understanding.
 
-## 📸 Preview
-
-> ![Quiz Screenshot](screenshot.png) <!-- Replace with an actual screenshot if available -->
-
----
-
-## 🌐 Live Demo
-
-> 🚀 [Coming Soon or Add your Netlify/GitHub Pages Link here]
+The UI is built with a clean and elegant dark theme, optimized for desktop, ensuring an accessible and visually appealing experience across screen.
 
 ---
 
